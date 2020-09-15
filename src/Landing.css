@@ -1,0 +1,15 @@
+.Landing {
+    content:"";
+    padding: 20%;
+
+}
+.Title {
+    font-size: 4em;
+    text-align: right;
+    position: relative;
+    left: 40%;
+    padding: 0%;
+    max-width: 5em;
+    background-color: white;
+    box-decoration-break: slice;
+}

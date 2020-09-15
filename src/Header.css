@@ -1,0 +1,12 @@
+
+.text {
+    padding-top: 0.1em;
+    padding-left: 0.1em;
+    text-align: left;
+    font-size: 2em;
+    background:white;
+
+}
+.name {
+    text-decoration: underline;
+}
