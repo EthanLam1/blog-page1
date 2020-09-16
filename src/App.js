@@ -22,8 +22,9 @@ const App = (props) => (
       <br />
       My name's Ethan Lam, I'm a second year CS specialist and hopeful
       philosophy and psych minor. This semester, I'm taking CSC290, CSC236,
-      MAT232, STA256, PHL246, and PSY100, so if we share any classes, hit me up!
-      <br />
+      MAT232, STA256, PHL246, and PSY100, so{" "}
+      <a href="https://www.instagram.com/ethannomiddlenamelam/">if we
+      share any classes, hit me up!</a>
       <br />
       I'm actually pretty new to Computer Science. For the first 18 years of my
       life, I thought I was gonna go into music.
@@ -57,7 +58,8 @@ const App = (props) => (
       I also really want to get my own website up and running. Right now, I'm
       literally writing this blog in the .js page of my code (ew), hopefully by
       the final blog of this course, this'll be hosted on my own website instead
-      of netlify, written in markdown, have pictures, etc, so stay tuned for that.
+      of netlify, written in markdown, have pictures, etc, so stay tuned for
+      that.
       <br />
       <br />
       Also, I give you full permission to shoot me a{" "}
